@@ -31,7 +31,7 @@
 
 ### Názvy pro často používané sloupce:
 
-- **order_column** - název pro řazení entit (např. drag & drop)
+- **custom_order** - název pro řazení entit (např. drag & drop)
 - **company_number** - název pro IČO / Identifikační Číslo Organizace
 - **vat_number** - název pro DIČ / Daňové Identifikační Číslo
 
